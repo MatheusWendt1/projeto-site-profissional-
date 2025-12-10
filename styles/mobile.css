@@ -1,0 +1,8 @@
+@media screen and (max-width: 1200px) {
+    header {
+        background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.2)), url('../imagens/49587\ \(1\).jpg');
+        background-repeat: no-repeat;
+        background-size: cover;
+        position: relative;
+    }
+}
